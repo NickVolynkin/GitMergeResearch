@@ -1,2 +1,2 @@
 # GitMergeResearch
-A demonstration of different git merge situations
+A demonstration of git merge behaviour in different situations
